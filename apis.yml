@@ -1,0 +1,32 @@
+aid: vat-validation
+name: VAT Validation
+description: "Validate VAT numbers and calculate VAT rates"
+url: https://www.abstractapi.com/vat-validation-rates-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Finance"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Finance
+  - Public APIs
+apis:
+  - name: VAT Validation
+    description: "Validate VAT numbers and calculate VAT rates"
+    humanURL: https://www.abstractapi.com/vat-validation-rates-api
+    baseURL: https://www.abstractapi.com/vat-validation-rates-api
+    tags:
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://www.abstractapi.com/vat-validation-rates-api
+common:
+  - type: Website
+    url: https://www.abstractapi.com/vat-validation-rates-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
