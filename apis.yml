@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.abstractapi.com/vat-validation-rates-api
 common:
+  - type: DomainSecurity
+    url: security/vat-validation-domain-security.yml
   - type: Website
     url: https://www.abstractapi.com/vat-validation-rates-api
   - type: PublicAPIsListing
