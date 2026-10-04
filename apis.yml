@@ -39,7 +39,6 @@ apis:
   - name: VAT Validation
     description: "Validate VAT numbers and calculate VAT rates"
     humanURL: https://www.abstractapi.com/vat-validation-rates-api
-    baseURL: https://www.abstractapi.com/vat-validation-rates-api
     tags:
       - Finance
     properties:
